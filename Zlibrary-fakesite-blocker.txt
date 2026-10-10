@@ -1,0 +1,44 @@
+! Title: Fake Z-Library Blocklist
+! Description: Custom AdGuard filter list to block fake and scam Z-Library mirror domains.
+! Version: 1.0.0
+! Last modified: 2026-10-11
+! Homepage: https://github.com/username/repository-name
+
+! --- Fake Z-Library Domains ---
+||go-to-zlibrary.com^
+||pt.singlelogin.re^
+||singlelogin.cc^
+||z-lib.ai^
+||z-lib.cc^
+||z-lib.club^
+||z-lib.cv^
+||z-lib.dev^
+||z-lib.ee^
+||z-lib.id^
+||z-lib.ink^
+||z-lib.io^
+||z-lib.li^
+||z-lib.lol^
+||z-lib.nl^
+||z-lib.tf^
+||z-lib.wf^
+||z-lib.wiki^
+||z-lib.ws^
+||z-lib.yt^
+||z-library-proxy.com^
+||z-library.blog^
+||z-library.cc^
+||z-library.co^
+||z-library.help^
+||z-library.is^
+||z-library.live^
+||z-library.lol^
+||z-library.st^
+||z-library.wiki^
+||zlib-official.com^
+||zlib.is^
+||zlib.to^
+||zlibis.com^
+||zlibrary-global.com^
+||zlibrary.is^
+||zlibrary.to^
