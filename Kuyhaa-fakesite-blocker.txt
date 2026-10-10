@@ -1,0 +1,21 @@
+! Title: Fake Kuyhaa Blocklist
+! Description: Custom AdGuard filter list to block fake and scam Kuyhaa domains.
+! Version: 1.0.0
+! Last modified: 2026-10-11
+! Homepage: https://github.com/username/repository-name
+
+! --- Fake Kuyhaa Domains ---
+||fullkuyhaa.com.ru^
+||kuyhaa.cc^
+||kuyhaa.id^
+||kuyhaa.net^
+||kuyhaa.org^
+||kuyhaa.team^
+||kuyhaa-me.com.de^
+||kuyhaa-me.id^
+||kuyhaa-me.org^
+||kuyhaa-me.pw^
+||kuyhaa-mee.com^
+||kuyhaame.com^
+||kuyhaame.net^
+||kuyhaapro.com^
