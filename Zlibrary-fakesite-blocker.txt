@@ -2,7 +2,7 @@
 ! Description: Custom AdGuard filter list to block fake and scam Z-Library mirror domains.
 ! Version: 1.0.0
 ! Last modified: 2026-10-11
-! Homepage: https://github.com/username/repository-name
+! Homepage: https://github.com/iqbalidol/Fake-Sites-Blocker
 
 ! --- Fake Z-Library Domains ---
 ||go-to-zlibrary.com^
